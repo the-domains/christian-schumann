@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T19:21:29.509Z'
+datePublished: '2016-01-30T19:21:29.668Z'
 dateModified: '2016-01-30T19:21:22.076Z'
 title: 'Welcome to my new official website!'
 author: []
