@@ -1,7 +1,7 @@
 name: Christian Schumann
 favicon: null
-layout_spectrum: 0.5458892
-typography_spectrum: 0.7091063
+layout_spectrum: 0.24864
+typography_spectrum: 0.57327
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#FDFEDD'
     - '#208091'
     - '#77ABB3'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.625
   saturation: 0.7930668
   rhythmicContrast: 0.5
