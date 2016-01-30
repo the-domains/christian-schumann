@@ -1,14 +1,26 @@
 layout_spectrum: 0.5458892
+name: Christian Schumann
 typography_spectrum: 0.6439795
 color:
-  saturation: 0.7930668
-  lightness: 0.8025976
   brandStrength: 0.8668316
-  rhythmicContrast: 0.09862733
+  saturation: 0.7930668
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Christian Schumann
+  lightness: 0.8025976
+  rhythmicContrast: 0.09862733
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
