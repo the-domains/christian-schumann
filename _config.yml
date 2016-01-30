@@ -1,3 +1,7 @@
+name: Christian Schumann
+favicon: null
+layout_spectrum: 0.5458892
+typography_spectrum: 0.7091063
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Christian Schumann - Conductor/Composer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7930668
-  brandStrength: 0.8668316
-  lightness: 0.8025976
   brandColors:
     - '#020E39'
     - '#1F305C'
     - '#FDFEDD'
     - '#208091'
     - '#77ABB3'
+  brandStrength: 0.8668316
+  lightness: 0.8025976
+  saturation: 0.7930668
   rhythmicContrast: 0.09862733
-typography_spectrum: 0.7091063
-layout_spectrum: 0.5458892
-name: Christian Schumann
+purpose: []
