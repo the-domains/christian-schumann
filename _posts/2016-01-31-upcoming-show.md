@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T19:08:57.259Z'
-dateModified: '2016-01-31T19:08:53.403Z'
+datePublished: '2016-01-31T19:12:12.641Z'
+dateModified: '2016-01-31T19:12:07.240Z'
 title: Upcoming concert
 author: []
 sourcePath: _posts/2016-01-31-upcoming-show.md
