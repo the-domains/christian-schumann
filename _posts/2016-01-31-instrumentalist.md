@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T19:45:34.344Z'
-dateModified: '2016-01-31T19:45:23.605Z'
+datePublished: '2016-01-31T19:47:25.577Z'
+dateModified: '2016-01-31T19:47:22.413Z'
 title: instrumentalist
 author: []
 sourcePath: _posts/2016-01-31-instrumentalist.md
@@ -22,6 +22,6 @@ url: instrumentalist/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e08bcf1f-0907-4644-86c7-1fa93637fde7.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/918086f4d5d9ae0a7f3848db0150232421df54e9.jpg)
 
 # instrumentalist
