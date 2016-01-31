@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T18:11:03.833Z'
-dateModified: '2016-01-31T18:10:59.263Z'
+datePublished: '2016-01-31T18:12:26.302Z'
+dateModified: '2016-01-31T18:12:22.565Z'
 title: Upcoming show
 author: []
 sourcePath: _posts/2016-01-31-upcoming-show.md
