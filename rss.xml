@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christian Schumann  -  Conductor / Composer / Instrumentalist]]></title>
+        <description><![CDATA[Christian Schumann  -  Conductor / Composer / Instrumentalist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 02:33:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[contact]]></title>
+            <description><![CDATA[<h1>contact</h1>]]></description>
+            <link>undefinedcontact/index.html</link>
+            <guid isPermaLink="false">06dbce4f-d649-4edf-b103-47c6873e1248</guid>
+            <pubDate>Sun, 31 Jan 2016 02:32:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
