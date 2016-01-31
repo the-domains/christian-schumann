@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T23:07:28.708Z'
+datePublished: '2016-01-31T23:07:28.795Z'
 dateModified: '2016-01-31T23:05:07.989Z'
 title: "\"J'accuse\" at festival musica Strasbourg, France"
 author: []
