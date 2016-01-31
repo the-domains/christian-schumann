@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T18:07:40.173Z'
-dateModified: '2016-01-31T18:07:38.647Z'
+datePublished: '2016-01-31T18:09:00.940Z'
+dateModified: '2016-01-31T18:08:56.847Z'
 title: Upcoming show
 author: []
 sourcePath: _posts/2016-01-31-upcoming-show.md
@@ -27,6 +27,6 @@ _type: MediaObject
 ## february 8 / 9
 
 ["A night with James Bond" (Skyfall) live at Gasteig, Munich, Germany][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/edcf620535c75896f06fec48767825c9f18f6f6b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5799a47ea5505341b17e98a497bce286bc6eadb2.jpg)
 
 [0]: http://www.muenchenevent.de/veranstaltungen/Eine_Nacht_mit_James_Bond-3431.html#__utma=239463644.2018674490.1454261112.1454261112.1454261112.1&__utmb=239463644.9.8.1454261353037&__utmc=239463644&__utmx=-&__utmz=239463644.1454261112.1.1.utmcsr=google%7Cutmccn=%28organic%29%7Cutmcmd=organic%7Cutmctr=%28not%20provided%29&__utmv=-&__utmk=68615506
