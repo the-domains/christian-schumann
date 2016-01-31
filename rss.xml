@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Christian Schumann - Conductor / Composer / Musician]]></title>
         <description><![CDATA[Christian Schumann - Conductor / Composer / Musician]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian-schumann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 00:28:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 00:28:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian-schumann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[contact]]></title>
             <description><![CDATA[<h1>contact</h1>]]></description>
-            <link>undefined05622353-b491-4d77-8e60-1e6828a1bcfb/index.html</link>
+            <link>https://thegrid.ai/christian-schumann/05622353-b491-4d77-8e60-1e6828a1bcfb/index.html</link>
             <guid isPermaLink="false">05622353-b491-4d77-8e60-1e6828a1bcfb</guid>
             <pubDate>Sun, 31 Jan 2016 00:27:33 GMT</pubDate>
         </item>
