@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T18:16:18.370Z'
-dateModified: '2016-01-31T18:16:13.748Z'
+datePublished: '2016-01-31T18:22:07.374Z'
+dateModified: '2016-01-31T18:22:02.994Z'
 title: Upcoming show
 author: []
 sourcePath: _posts/2016-01-31-upcoming-show.md
@@ -23,3 +23,4 @@ _type: MediaObject
 
 ---
 # Upcoming show
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0d9b03-334f-4eb6-b3c5-aa14433f1a5b.jpg)
