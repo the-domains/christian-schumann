@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Christian Schumann]]></title>
         <description><![CDATA[Christian Schumann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian-schumann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 17:53:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 18:00:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian-schumann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Upcoming show]]></title>
-            <description><![CDATA[<h1>Upcoming show</h1>]]></description>
-            <link>undefinedupcoming-show/index.html</link>
+            <description><![CDATA[<article><h1>Upcoming show</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edcf620535c75896f06fec48767825c9f18f6f6b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/christian-schumann/upcoming-show/index.html</link>
             <guid isPermaLink="false">9ba04f76-636b-42e7-bfc4-0b20bc69b855</guid>
-            <pubDate>Sun, 31 Jan 2016 17:53:18 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 18:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
