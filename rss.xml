@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Christian Schumann - Conductor / Composer / Instrumentalist]]></title>
         <description><![CDATA[Christian Schumann - Conductor / Composer / Instrumentalist]]></description>
-        <link>https://thegrid.ai/christian-schumann/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 31 Jan 2016 00:04:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/christian-schumann/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trondheim Symphony Orchestra]]></title>
             <description><![CDATA[<article><h1>Trondheim Symphony Orchestra</h1><p>Welcome</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad1f3f1c-8683-4dcd-aec8-0f571bcc646d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/christian-schumann/a567366b-53de-487c-b2d4-6701fafdb689/index.html</link>
+            <link>undefineda567366b-53de-487c-b2d4-6701fafdb689/index.html</link>
             <guid isPermaLink="false">a567366b-53de-487c-b2d4-6701fafdb689</guid>
-            <pubDate>Sun, 31 Jan 2016 00:03:50 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 00:02:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
