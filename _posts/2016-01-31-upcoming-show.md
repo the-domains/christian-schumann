@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T18:45:56.564Z'
-dateModified: '2016-01-31T18:45:19.028Z'
-title: 'Upcoming concert '
+datePublished: '2016-01-31T18:49:32.032Z'
+dateModified: '2016-01-31T18:49:27.415Z'
+title: Upcoming concert
 author: []
 sourcePath: _posts/2016-01-31-upcoming-show.md
 published: true
@@ -31,6 +31,5 @@ _type: MediaObject
 [][0]
 
 [][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a3a1f15ff3c00490ebabb7be3333691c52dee7.jpg)
 
 [0]: http://www.muenchenevent.de/veranstaltungen/Eine_Nacht_mit_James_Bond-3431.html#__utma=239463644.2018674490.1454261112.1454261112.1454261112.1&__utmb=239463644.9.8.1454261353037&__utmc=239463644&__utmx=-&__utmz=239463644.1454261112.1.1.utmcsr=google%7Cutmccn=%28organic%29%7Cutmcmd=organic%7Cutmctr=%28not%20provided%29&__utmv=-&__utmk=68615506
