@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T19:40:29.213Z'
-dateModified: '2016-01-31T19:40:25.449Z'
+datePublished: '2016-01-31T19:42:38.367Z'
+dateModified: '2016-01-31T19:42:32.773Z'
 title: instrumentalist
 author: []
 sourcePath: _posts/2016-01-31-instrumentalist.md
