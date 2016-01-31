@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Christian Schumann  -  Conductor / Composer / Instrumentalist
+title: Christian Schumann
 cta:
   domain: null
   bucket: null
