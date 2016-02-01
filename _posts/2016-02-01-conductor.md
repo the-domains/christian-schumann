@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:04:25.886Z'
-dateModified: '2016-02-01T11:04:10.468Z'
+datePublished: '2016-02-01T11:11:52.165Z'
+dateModified: '2016-02-01T11:11:43.561Z'
 title: conductor
 author: []
+sourcePath: _posts/2016-02-01-conductor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-conductor.md
-published: true
 url: conductor/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b5432f0-8d05-40ab-8645-873edf32e722.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51e31fdbcd6852893e45f944fb5cb786ae66d04.jpg)
