@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:11:52.198Z'
-dateModified: '2016-02-01T11:11:43.561Z'
+datePublished: '2016-02-01T11:12:54.132Z'
+dateModified: '2016-02-01T11:12:50.988Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-02-01-conductor.md
@@ -22,4 +22,4 @@ url: conductor/index.html
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51e31fdbcd6852893e45f944fb5cb786ae66d04.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc57c60d76d459714b3a5e72ea70e2fd03a895a5.jpg)
