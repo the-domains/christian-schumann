@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T16:00:31.992Z'
-dateModified: '2016-01-31T15:01:46.154Z'
-title: 'impressum '
+datePublished: '2016-02-01T11:56:25.476Z'
+dateModified: '2016-02-01T11:56:19.732Z'
+title: impressum
 author: []
+sourcePath: _posts/2016-01-31-impressum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-impressum.md
-published: true
 url: impressum/index.html
-_type: WebPage
+_type: Article
 
 ---
-# impressum
+Copyright (c) 2016 Christian Schumann. All Rights Reserved
