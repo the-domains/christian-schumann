@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T23:07:28.808Z'
-dateModified: '2016-01-31T23:05:07.989Z'
+datePublished: '2016-02-01T10:12:42.243Z'
+dateModified: '2016-02-01T10:12:04.255Z'
 title: "\"J'accuse\" at festival musica Strasbourg, France"
 author: []
 sourcePath: _posts/2016-01-31-jaccuse-at-festival-musica-strasbourg-france.md
@@ -23,6 +23,5 @@ _type: Blurb
 
 ---
 # ["J'accuse" at festival musica Strasbourg, France][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1499a39-f058-44fe-989a-cdad49580be5.jpg)
 
 [0]: http://www.festivalmusica.org/edition/2015/manifestation/1563/jaccuse
