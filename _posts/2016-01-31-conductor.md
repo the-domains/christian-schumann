@@ -6,20 +6,21 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T16:21:41.482Z'
-dateModified: '2016-01-31T16:21:13.747Z'
+datePublished: '2016-02-01T11:22:42.856Z'
+dateModified: '2016-02-01T11:22:39.826Z'
 title: conductor
 author: []
+sourcePath: _posts/2016-01-31-conductor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-conductor.md
-published: true
 url: conductor/index.html
 _type: WebPage
 
 ---
 # conductor
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6205b57a-fd9a-4b30-8ff5-def568f48e58.jpg)
