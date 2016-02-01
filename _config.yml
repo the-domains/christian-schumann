@@ -1,19 +1,8 @@
-color:
-  brandStrength: 0.8125
-  saturation: 0.1875
-  brandColors:
-    - '#00042a'
-    - '#ffffdd'
-    - '#016773'
-    - '#2985a9'
-    - '#aa9c82'
-  lightness: 0.4375
-  rhythmicContrast: 0.5
-title: Christian Schumann
-analytics:
-  twitter: null
-  google: UA-73138904-1
-  facebook: null
+name: Christian Schumann
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.51211
+title: 'Christian Schumann   -   c & c'
 collections:
   - index:
       paginate: true
@@ -27,15 +16,26 @@ collections:
       path: /rss.xml
       number: 10
 cta:
-  version: null
-  bucket: null
   domain: null
-favicon: null
-layout_spectrum: 0
-purpose: []
-name: Christian Schumann
+  bucket: null
+  version: null
+analytics:
+  google: UA-73138904-1
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.51211
+color:
+  brandColors:
+    - '#00042a'
+    - '#ffffdd'
+    - '#016773'
+    - '#2985a9'
+    - '#aa9c82'
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
