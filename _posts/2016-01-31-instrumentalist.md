@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T12:18:52.663Z'
-dateModified: '2016-02-01T12:18:48.491Z'
+datePublished: '2016-02-03T23:35:20.474Z'
+dateModified: '2016-02-03T23:35:17.048Z'
 title: instrumentalist
 author: []
 sourcePath: _posts/2016-01-31-instrumentalist.md
@@ -23,6 +23,5 @@ _type: WebPage
 
 ---
 # instrumentalist
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdfdd96e3f5d09dc1efd4e46cf7f2ffcaf3327f1.jpg)
 
 Copyright (c) 2016 Christian Schumann. All Rights Reserved
