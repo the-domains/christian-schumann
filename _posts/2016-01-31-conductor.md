@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T00:28:40.326Z'
-dateModified: '2016-02-04T00:27:58.677Z'
+datePublished: '2016-02-04T01:21:21.284Z'
+dateModified: '2016-02-04T01:21:18.354Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-01-31-conductor.md
