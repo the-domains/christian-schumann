@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T00:18:17.092Z'
-dateModified: '2016-02-04T00:18:01.254Z'
+datePublished: '2016-02-04T00:19:48.853Z'
+dateModified: '2016-02-04T00:19:46.264Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-01-31-conductor.md
@@ -23,6 +23,6 @@ _type: WebPage
 
 ---
 # conductor
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4078d7ba64d47a72b7a82b272b2e398f00f3b5bb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/526d27428f5f1b6cd6eca2546614e41bd6e3c9b2.jpg)
 
 Copyright (c) 2016 Christian Schumann. All Rights Reserved
