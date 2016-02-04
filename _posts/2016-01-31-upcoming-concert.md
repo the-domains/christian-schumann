@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T23:28:33.598Z'
-dateModified: '2016-02-03T23:28:30.680Z'
-title: Upcoming concert
+datePublished: '2016-02-04T00:56:12.261Z'
+dateModified: '2016-02-04T00:56:09.699Z'
+title: upcoming concert
 author: []
 sourcePath: _posts/2016-01-31-upcoming-concert.md
 published: true
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Upcoming concert
+# upcoming concert
 
 ## february 8 / 9
 
