@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T00:35:12.487Z'
-dateModified: '2016-02-06T00:35:08.328Z'
+datePublished: '2016-02-06T00:35:46.900Z'
+dateModified: '2016-02-06T00:35:33.959Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-01-31-conductor.md
