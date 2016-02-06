@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T00:35:46.900Z'
-dateModified: '2016-02-06T00:35:33.959Z'
+datePublished: '2016-02-06T00:36:43.099Z'
+dateModified: '2016-02-06T00:36:40.475Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-01-31-conductor.md
@@ -25,6 +25,6 @@ _type: WebPage
 # conductor
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/524279af-8c41-40dc-87f8-f1f22f3120dc.jpg)
 
-picture by Eleni Mitsiaki
+by Eleni Mitsiaki
 
 Copyright (c) 2016 Christian Schumann. All Rights Reserved
