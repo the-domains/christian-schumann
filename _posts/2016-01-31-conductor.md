@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T00:50:03.558Z'
-dateModified: '2016-02-06T00:50:03.149Z'
+datePublished: '2016-02-06T00:51:04.033Z'
+dateModified: '2016-02-06T00:51:00.757Z'
 title: conductor
 author: []
 sourcePath: _posts/2016-01-31-conductor.md
@@ -48,6 +48,5 @@ Schumann received a Master of Arts Degree at the Franz Liszt
 University Weimar majoring conducting and composition (2007) His 
 professors were Nicolas Pasquet and Michael Obst.
 
-picture by Eleni Mitsiaki
-
+picture by Eleni Mitsiaki  
 Copyright (c) 2016 Christian Schumann. All Rights Reserved
