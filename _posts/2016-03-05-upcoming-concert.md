@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T15:38:20.635Z'
-dateModified: '2016-03-05T15:37:59.142Z'
+datePublished: '2016-03-05T21:02:30.637Z'
+dateModified: '2016-03-05T21:02:29.118Z'
 title: upcoming concert
 author: []
+sourcePath: _posts/2016-03-05-upcoming-concert.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-upcoming-concert.md
-published: true
 _type: Blurb
 
 ---
