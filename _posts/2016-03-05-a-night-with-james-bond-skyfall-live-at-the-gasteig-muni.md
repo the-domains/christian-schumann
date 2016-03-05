@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:50:11.520Z'
-dateModified: '2016-03-05T20:50:08.364Z'
+datePublished: '2016-03-05T21:02:42.005Z'
+dateModified: '2016-03-05T21:02:39.299Z'
 title: '"A night with James Bond" (Skyfall) live at the Gasteig Munich, Germany'
 author: []
 sourcePath: _posts/2016-03-05-a-night-with-james-bond-skyfall-live-at-the-gasteig-muni.md
