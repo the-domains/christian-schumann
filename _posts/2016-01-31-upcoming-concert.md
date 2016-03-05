@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T00:56:12.261Z'
-dateModified: '2016-02-04T00:56:09.699Z'
+datePublished: '2016-03-05T14:57:57.317Z'
+dateModified: '2016-03-05T14:57:30.329Z'
 title: upcoming concert
 author: []
 sourcePath: _posts/2016-01-31-upcoming-concert.md
@@ -22,11 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# upcoming concert
-
-## february 8 / 9
-
-["A night with James Bond" (Skyfall) live at the Gasteig Munich, Germany][0]
+## ["A night with James Bond" (Skyfall) live at the Gasteig Munich, Germany][0]
 
 [][0][][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9dfc0a00ccfef02e75ef7b58cba4f625f063082.jpg)
