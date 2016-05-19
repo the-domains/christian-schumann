@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T14:40:09.694Z'
-dateModified: '2016-05-19T14:23:46.759Z'
+datePublished: '2016-05-19T14:58:53.116Z'
+dateModified: '2016-05-19T14:40:30.802Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
