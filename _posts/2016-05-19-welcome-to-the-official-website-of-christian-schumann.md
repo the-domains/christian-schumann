@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T13:30:13.214Z'
-dateModified: '2016-05-19T13:30:12.306Z'
+datePublished: '2016-05-19T13:36:57.062Z'
+dateModified: '2016-05-19T13:36:29.482Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-19-welcome-to-the-official-website-of-christian-schumann.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: welcome-to-the-official-website-of-christian-schumann/index.html
 _type: Article
 
