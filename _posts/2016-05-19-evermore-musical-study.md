@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Christian Schumann
-    url: 'https://www.youtube.com/user/MyCMvideos'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=aJz0XP5RXdc'
+inLanguage: en
 keywords:
   - duration
   - schumann
@@ -21,7 +16,13 @@ keywords:
   - maximall
   - sehnt
 description: 'short movie written and directed by Philip Hofmänner, music composed by Christian Schumann; Starring Lisa Brühlmann & Lucas Ullrich TRIXER Studios in coproduction with SF (Schweizer Fernsehen) I do not own the rights to this film!'
-inLanguage: en
+datePublished: '2016-05-19T15:36:15.136Z'
+dateModified: '2016-05-19T15:36:07.272Z'
+author:
+  - name: Christian Schumann
+    url: 'https://www.youtube.com/user/MyCMvideos'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aJz0XP5RXdc&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=aJz0XP5RXdc'
 title: EVERMORE (musical study)
-datePublished: '2016-05-19T13:35:25.629Z'
-dateModified: '2016-05-19T13:26:30.805Z'
-starred: false
 sourcePath: _posts/2016-05-19-evermore-musical-study.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
