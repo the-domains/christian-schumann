@@ -2,12 +2,11 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T14:58:53.116Z'
-dateModified: '2016-05-19T14:40:30.802Z'
+datePublished: '2016-05-19T15:04:12.749Z'
+dateModified: '2016-05-19T15:03:46.187Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
@@ -20,4 +19,4 @@ _type: Blurb
 
 ---
 # Welcome to the official website of Christian Schumann
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bd3332f89c762f2958868c46e96af869b332d8c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/439158f6-7065-4d9c-8e0b-ad228ec1f65f.jpg)
