@@ -2,12 +2,11 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T15:43:13.082Z'
-dateModified: '2016-05-19T15:22:26.209Z'
+datePublished: '2016-05-19T16:11:47.172Z'
+dateModified: '2016-05-19T16:11:16.826Z'
 title: Welcome to the official website
 author:
   - name: ''
@@ -20,4 +19,4 @@ _type: Blurb
 
 ---
 # Welcome to the official website
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e090621644b3a3120e6fc095ebfa0fcb1945b07.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e367069e-af09-4067-aac7-e36557fe57ba.jpg)
