@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T11:35:10.594Z'
-dateModified: '2016-05-19T11:34:33.255Z'
+datePublished: '2016-05-19T11:41:11.986Z'
+dateModified: '2016-05-19T11:41:11.484Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -34,19 +34,41 @@ Alexandra Schulz
 
 TSCHERNE ARTISTS  
 Mr Franz Tscherne  
-[franz@tscherneartists.com][2]  
 T: +43 1 512 106911  
 M: +43 676 4072269  
+[franz@tscherneartists.com][2]  
 [www.tscherneartists.com][3]
+
+## for Italy:
+
+FORVM ARTISTS  
+Mr David Barsotti  
+T: +39 06 8084259  
+M: +39 338 1787073  
+[forumartistsrome@gmail.com][4]  
+[www.forumartists.com][5]
+
+## for Hungary:
+
+BIROMUSIC  
+Mrs Csilla Bíró  
+T: +36 1 327 0105  
+F: +36 1 327 0104  
+[impresario@biromusic.com][6]  
+[www.biromusic.com][7]
 
 ## artistic consultant:
 
-Mrs Eleni Mitsiaki
-
+Mrs Eleni Mitsiaki  
+[elafini@kinetophone.com][8]  
 M: +30 698 4184184
-
 
 [0]: mailto:moema.parrott@harrisonparrott.co.uk
 [1]: mailto:alexandra.schulz@harrisonparrott.co.uk
 [2]: mailto:franz@tscherneartists.com?subject=Christian%20Schumann "mailto:franz@tscherneartists.com?subject=Christian Schumann"
 [3]: http://tscherneartists.com/schumann_christian.html "http://tscherneartists.com/schumann_christian.html"
+[4]: mailto:forumartistsrome@gmail.com?subject=Christian%20Schumann "mailto:forumartistsrome@gmail.com?subject=Christian Schumann"
+[5]: http://www.forumartists.com/#!christian-schumann/c21b5 "http://www.forumartists.com/#!christian-schumann/c21b5"
+[6]: mailto:impresario@biromusic.com?subject=Christian%20Schumann "mailto:impresario@biromusic.com?subject=Christian Schumann"
+[7]: http://biromusic.com/eng/muveszek/christian-schumann-en/ "http://biromusic.com/eng/muveszek/christian-schumann-en/"
+[8]: mailto:elafini@kinetophone.com?subject=Christian%20Schumann "mailto:elafini@kinetophone.com?subject=Christian Schumann"
