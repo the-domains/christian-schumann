@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T10:22:43.407Z'
-dateModified: '2016-05-19T10:22:38.835Z'
+datePublished: '2016-05-19T10:23:24.991Z'
+dateModified: '2016-05-19T10:22:48.868Z'
 title: 'Welcome to the official homepage of conductor, composer and instrumenatlist Christian Schumann'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-19-welcome-to-the-official-homepage-of-conductor-composer-and.md
 authors: []
 publisher: null
