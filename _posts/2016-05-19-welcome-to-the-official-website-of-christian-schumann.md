@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T13:36:57.062Z'
-dateModified: '2016-05-19T13:36:29.482Z'
+datePublished: '2016-05-19T13:52:47.442Z'
+dateModified: '2016-05-19T13:37:04.158Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
