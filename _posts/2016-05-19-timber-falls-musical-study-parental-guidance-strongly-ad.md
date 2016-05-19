@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Christian Schumann
-    url: 'https://www.youtube.com/user/MyCMvideos'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=kLHu_5t4Pd0'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - sribalajimovies
   - rakshakudu
 description: 'short szene of the movie written and directed by Tony Giglio with my own musical concept as a study. I do not own the rights for this movie!'
-inLanguage: en
+datePublished: '2016-05-19T13:07:34.490Z'
+dateModified: '2016-05-19T13:04:50.839Z'
+author:
+  - name: Christian Schumann
+    url: 'https://www.youtube.com/user/MyCMvideos'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kLHu_5t4Pd0&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=kLHu_5t4Pd0'
 title: 'TIMBER FALLS (musical study) - parental guidance strongly advised!'
-datePublished: '2016-05-19T12:43:30.789Z'
-dateModified: '2016-05-19T10:30:34.595Z'
-starred: false
 sourcePath: _posts/2016-05-19-timber-falls-musical-study-parental-guidance-strongly-ad.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
