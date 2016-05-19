@@ -5,22 +5,24 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: Zobaczcie drugi reportaż z tegorocznego 8. FMF. W materiale m.in. koncert Szekspir symfonicznie. www.fmf.fm www.facebook.com/festiwalmuzykifilmowejwkrakowie www.instagram.com/krakowfilmmusicfestival
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=4gVOaiJjnuI&feature=youtu.be&t=3m12s'
 title: '8. Festiwal Muzyki Filmowej w Krakowie: Szekspir Symfonicznie, Nagroda Kilara - reportaż cz. 2'
-datePublished: '2016-05-19T16:08:44.474Z'
-dateModified: '2016-05-19T16:07:38.208Z'
-starred: false
+datePublished: '2016-05-19T16:19:24.401Z'
+dateModified: '2016-05-19T16:18:54.797Z'
 sourcePath: _posts/2016-05-19-8-festiwal-muzyki-filmowej-w-krakowie-szekspir-symfoniczni.md
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
