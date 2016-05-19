@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T14:23:39.224Z'
-dateModified: '2016-05-19T14:09:19.965Z'
+datePublished: '2016-05-19T14:40:09.694Z'
+dateModified: '2016-05-19T14:23:46.759Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-05-19-welcome-to-the-official-website-of-christian-schum
 authors: []
 publisher: null
 starred: true
-url: welcome-to-the-official-website-of-christian-schumann/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Welcome to the official website of Christian Schumann
