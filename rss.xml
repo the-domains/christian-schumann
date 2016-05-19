@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christian Schumann]]></title>
+        <description><![CDATA[Christian Schumann]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 09:33:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TIMBER FALLS (musical study) - parental guidance strongly advised!]]></title>
+            <description><![CDATA[<article><h1>TIMBER FALLS (musical study) - parental guidance strongly advised!</h1><p>short szene of the movie written and directed by Tony Giglio with my own musical concept as a study. I do not own the rights for this movie!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa350d87ff97a810ed2333cdbdcd3cc5aa2fec5c.jpg"></article>]]></description>
+            <link>undefinedtimber-falls-musical-study-parental-guidance-strongly-ad/index.html</link>
+            <guid isPermaLink="false">5bf11fcb-85af-48cf-857f-24567f56acd5</guid>
+            <pubDate>Thu, 19 May 2016 09:33:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
