@@ -1,8 +1,20 @@
-name: Christian Schumann
-favicon: null
-layout_spectrum: 0.32873
-typography_spectrum: 0.59752
 title: Christian Schumann - conductor - composer - instrumentalist
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.32873
+favicon: null
+name: Christian Schumann
+purpose: []
+analytics:
+  twitter: null
+  google: UA-73138904-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       paginate: true
@@ -15,27 +27,15 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73138904-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.2617021
+  rhythmicContrast: 0.3659574
   brandColors:
     - '#000000'
     - '#6a6d5a'
     - '#d0d4d7'
     - '#49493f'
     - '#878785'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.1875
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.59752
