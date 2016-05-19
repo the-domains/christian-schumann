@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T13:52:47.442Z'
-dateModified: '2016-05-19T13:37:04.158Z'
+datePublished: '2016-05-19T14:09:11.157Z'
+dateModified: '2016-05-19T14:00:22.166Z'
 title: Welcome to the official website of Christian Schumann
 author:
   - name: ''
@@ -19,6 +19,5 @@ url: welcome-to-the-official-website-of-christian-schumann/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ea2ab94-0184-482d-9d56-53ac12d39e91.jpg)
-
 # Welcome to the official website of Christian Schumann
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bd3332f89c762f2958868c46e96af869b332d8c.jpg)
