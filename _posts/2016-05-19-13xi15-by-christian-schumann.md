@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "a day i'll never forget - \"save it for tomorrow\""
-datePublished: '2016-05-19T12:52:11.720Z'
-dateModified: '2016-05-19T12:51:08.066Z'
+datePublished: '2016-05-19T13:06:00.054Z'
+dateModified: '2016-05-19T13:05:56.084Z'
 author:
   - name: Christian Schumann
     url: 'http://soundcloud.com/christian-schumann-19'
@@ -49,7 +49,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: 13XI15 by Christian Schumann
+title: Composer
 sourcePath: _posts/2016-05-19-13xi15-by-christian-schumann.md
 authors: []
 publisher:
@@ -63,4 +63,6 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
+# Composer
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F235165779%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fchristian-schumann-19%2F13xi15&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000137716777-ek1ehb-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
