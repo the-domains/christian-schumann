@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T11:41:11.986Z'
-dateModified: '2016-05-19T11:41:11.484Z'
+datePublished: '2016-05-19T11:42:40.523Z'
+dateModified: '2016-05-19T11:42:40.086Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -19,7 +19,7 @@ _type: WebPage
 ---
 # Contacts / Links
 
-## Concerts worldwide:
+## Representation worldwide:
 
 POLYARTS in partnership with Harrison Parrott  
 Moema Parrott  
