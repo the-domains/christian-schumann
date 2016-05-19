@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T16:18:31.783Z'
-dateModified: '2016-05-19T16:17:36.292Z'
+datePublished: '2016-05-19T16:19:29.779Z'
+dateModified: '2016-05-19T16:19:01.489Z'
 title: Welcome to the official website
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 sourcePath: _posts/2016-05-19-welcome-to-the-official-website-of-christian-schumann.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
