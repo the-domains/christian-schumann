@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T10:19:08.797Z'
-dateModified: '2016-05-19T10:18:50.319Z'
+datePublished: '2016-05-19T10:22:43.407Z'
+dateModified: '2016-05-19T10:22:38.835Z'
+title: 'Welcome to the official homepage of conductor, composer and instrumenatlist Christian Schumann'
+author: []
+sourcePath: _posts/2016-05-19-welcome-to-the-official-homepage-of-conductor-composer-and.md
 authors: []
 publisher: null
-title: 'Welcome to the official homepage of conductor, composer and instrumenatlist Christian Schumann '
-author: []
 starred: false
-sourcePath: _posts/2016-05-19-welcome-to-the-official-homepage-of-conductor-composer-and.md
 url: welcome-to-the-official-homepage-of-conductor-composer-and/index.html
 _type: Article
 
