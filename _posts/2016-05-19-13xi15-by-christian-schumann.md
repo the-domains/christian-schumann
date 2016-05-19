@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/christian-schumann-19/13xi15'
+inLanguage: null
+keywords: []
+description: "a day i'll never forget - \"save it for tomorrow\""
+datePublished: '2016-05-19T15:37:16.925Z'
+dateModified: '2016-05-19T15:37:16.498Z'
 author:
   - name: Christian Schumann
     url: 'http://soundcloud.com/christian-schumann-19'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: "a day i'll never forget - \"save it for tomorrow\""
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +50,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/christian-schumann-19/13xi15'
 title: 13XI15 by Christian Schumann
-datePublished: '2016-05-19T13:35:25.452Z'
-dateModified: '2016-05-19T13:27:24.971Z'
-starred: false
 sourcePath: _posts/2016-05-19-13xi15-by-christian-schumann.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
