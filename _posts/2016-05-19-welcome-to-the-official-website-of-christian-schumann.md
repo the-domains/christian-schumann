@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T15:08:59.625Z'
-dateModified: '2016-05-19T15:04:21.765Z'
-title: Welcome to the official website of Christian Schumann
+datePublished: '2016-05-19T15:10:06.512Z'
+dateModified: '2016-05-19T15:09:19.874Z'
+title: Welcome to the official website
 author:
   - name: ''
     url: ''
@@ -18,5 +18,5 @@ starred: true
 _type: Blurb
 
 ---
-# Welcome to the official website of Christian Schumann
+# Welcome to the official website
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/439158f6-7065-4d9c-8e0b-ad228ec1f65f.jpg)
