@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T11:12:55.169Z'
-dateModified: '2016-05-19T11:12:42.523Z'
+datePublished: '2016-05-19T11:24:00.092Z'
+dateModified: '2016-05-19T11:23:23.041Z'
 title: Contacts / Links
 author: []
+sourcePath: _posts/2016-05-19-contacts-links.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-19-contacts-links.md
 url: contacts-links/index.html
 _type: WebPage
 
@@ -29,9 +29,6 @@ Moema Parrott
 Alexandra Schulz  
 + 34 608 990 142  
 [alexandra.schulz@harrisonparrott.co.uk][1]
-
-  
-
 
 [0]: mailto:moema.parrott@harrisonparrott.co.uk
 [1]: mailto:alexandra.schulz@harrisonparrott.co.uk
