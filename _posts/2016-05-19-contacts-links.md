@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T11:42:40.523Z'
-dateModified: '2016-05-19T11:42:40.086Z'
+datePublished: '2016-05-19T11:45:37.974Z'
+dateModified: '2016-05-19T11:45:37.516Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -63,6 +63,16 @@ Mrs Eleni Mitsiaki
 [elafini@kinetophone.com][8]  
 M: +30 698 4184184
 
+## me:
+
+[Facebook][9]  
+[YouTube][10]  
+[SoundCloud][11]
+
+## links:
+
+[European Filmphilharmonic Institute][12]
+
 [0]: mailto:moema.parrott@harrisonparrott.co.uk
 [1]: mailto:alexandra.schulz@harrisonparrott.co.uk
 [2]: mailto:franz@tscherneartists.com?subject=Christian%20Schumann "mailto:franz@tscherneartists.com?subject=Christian Schumann"
@@ -72,3 +82,7 @@ M: +30 698 4184184
 [6]: mailto:impresario@biromusic.com?subject=Christian%20Schumann "mailto:impresario@biromusic.com?subject=Christian Schumann"
 [7]: http://biromusic.com/eng/muveszek/christian-schumann-en/ "http://biromusic.com/eng/muveszek/christian-schumann-en/"
 [8]: mailto:elafini@kinetophone.com?subject=Christian%20Schumann "mailto:elafini@kinetophone.com?subject=Christian Schumann"
+[9]: https://www.facebook.com/ChristianSchumannOfficial/?ref=hl "https://www.facebook.com/ChristianSchumannOfficial/?ref=hl"
+[10]: https://www.youtube.com/user/MyCMvideos/videos "https://www.youtube.com/user/MyCMvideos/videos"
+[11]: https://soundcloud.com/christian-schumann-19 "https://soundcloud.com/christian-schumann-19"
+[12]: http://www.filmphilharmonie.de/index.php?id=127&L=1 "http://www.filmphilharmonie.de/index.php?id=127&L=1"
