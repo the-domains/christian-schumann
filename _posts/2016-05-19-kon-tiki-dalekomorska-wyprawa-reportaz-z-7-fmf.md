@@ -16,8 +16,8 @@ keywords:
   - festiwal
   - krakow
 description: 'Pierwszego dnia festiwalu odbyła się premiera zamówionego przez FMF projektu Kon-Tiki: Dalekomorska Wyprawa - pełnej projekcji pierwszego w historii Norwegii filmu nominowanego do Oscara i Złotego Globu Wyprawa Kon-Tiki (2012, reż. Joachim Roenning, Espen Sandberg). Ta największa produkcja filmowa w historii skandynawskiej kinematografii została zaprezentowana publiczności w wersji koncertowej z muzyką na żywo.'
-datePublished: '2016-05-19T13:35:25.612Z'
-dateModified: '2016-05-19T13:28:46.012Z'
+datePublished: '2016-05-19T16:04:40.837Z'
+dateModified: '2016-05-19T15:59:33.728Z'
 author:
   - name: biurofestiwalowe
     url: 'https://www.youtube.com/user/biurofestiwalowe'
@@ -61,6 +61,7 @@ app_links:
     namespace: google
     type: ios
 title: Kon-Tiki. Dalekomorska wyprawa - reportaż z 7. FMF
+sourcePath: _posts/2016-05-19-kon-tiki-dalekomorska-wyprawa-reportaz-z-7-fmf.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-19-kon-tiki-dalekomorska-wyprawa-reportaz-z-7-fmf.md
 _type: VideoObject
 _context: 'http://schema.org'
 
