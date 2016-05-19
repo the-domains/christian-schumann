@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T11:28:25.793Z'
-dateModified: '2016-05-19T11:24:07.410Z'
+datePublished: '2016-05-19T11:35:10.594Z'
+dateModified: '2016-05-19T11:34:33.255Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -30,5 +30,23 @@ Alexandra Schulz
 + 34 608 990 142  
 [alexandra.schulz@harrisonparrott.co.uk][1]
 
+## for opera:
+
+TSCHERNE ARTISTS  
+Mr Franz Tscherne  
+[franz@tscherneartists.com][2]  
+T: +43 1 512 106911  
+M: +43 676 4072269  
+[www.tscherneartists.com][3]
+
+## artistic consultant:
+
+Mrs Eleni Mitsiaki
+
+M: +30 698 4184184
+
+
 [0]: mailto:moema.parrott@harrisonparrott.co.uk
 [1]: mailto:alexandra.schulz@harrisonparrott.co.uk
+[2]: mailto:franz@tscherneartists.com?subject=Christian%20Schumann "mailto:franz@tscherneartists.com?subject=Christian Schumann"
+[3]: http://tscherneartists.com/schumann_christian.html "http://tscherneartists.com/schumann_christian.html"
