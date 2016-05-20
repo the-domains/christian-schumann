@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-20T11:46:33.942Z'
-dateModified: '2016-05-20T11:46:31.592Z'
+datePublished: '2016-05-20T12:04:31.320Z'
+dateModified: '2016-05-20T11:56:54.992Z'
 title: Welcome to the official website
 author:
   - name: ''
@@ -20,4 +20,4 @@ _type: Blurb
 
 ---
 # Welcome to the official website
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f62cfd8780b6b1da7cbb21cf8640446983ff387.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83df6e75-780f-4c4f-9164-91bd1d950226.jpg)
