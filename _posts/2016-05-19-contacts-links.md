@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T15:34:39.258Z'
-dateModified: '2016-05-19T15:22:53.488Z'
+datePublished: '2016-05-20T11:31:28.362Z'
+dateModified: '2016-05-20T11:31:04.176Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -23,7 +23,6 @@ _type: WebPage
 
 POLYARTS in partnership with Harrison Parrott  
 Moema Parrott  
-+44 (0)78 8466 4051  
 [moema.parrott@harrisonparrott.co.uk][0]
 
 Alexandra Schulz  
