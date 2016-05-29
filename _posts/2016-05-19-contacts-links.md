@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-20T11:31:28.362Z'
-dateModified: '2016-05-20T11:31:04.176Z'
+datePublished: '2016-05-29T15:47:23.347Z'
+dateModified: '2016-05-29T15:46:39.726Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -34,7 +34,7 @@ Alexandra Schulz
 ## for opera:
 
 TSCHERNE ARTISTS  
-Mr Franz Tscherne  
+Franz Tscherne  
 T: +43 1 512 106911  
 M: +43 676 4072269  
 [franz@tscherneartists.com][3]  
@@ -43,7 +43,7 @@ M: +43 676 4072269
 ## for Italy:
 
 FORVM ARTISTS  
-Mr David Barsotti  
+David Barsotti  
 T: +39 06 8084259  
 M: +39 338 1787073  
 [forumartistsrome@gmail.com][5]  
@@ -52,7 +52,7 @@ M: +39 338 1787073
 ## for Hungary:
 
 BIROMUSIC  
-Mrs Csilla Bíró  
+Csilla Bíró  
 T: +36 1 327 0105  
 F: +36 1 327 0104  
 [impresario@biromusic.com][7]  
@@ -60,12 +60,13 @@ F: +36 1 327 0104
 
 ## artistic consultant:
 
-Mrs Eleni Mitsiaki  
+Eleni Mitsiaki  
 [elafini@kinetophone.com][9]  
 M: +30 698 4184184
 
 ## me:
 
+contact@christian-schumann.com  
 [Facebook][10]  
 [YouTube][11]  
 [SoundCloud][12]
