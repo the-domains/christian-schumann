@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-29T15:47:23.347Z'
-dateModified: '2016-05-29T15:46:39.726Z'
+datePublished: '2016-05-29T15:52:43.237Z'
+dateModified: '2016-05-29T15:50:02.105Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -66,14 +66,14 @@ M: +30 698 4184184
 
 ## me:
 
-contact@christian-schumann.com  
-[Facebook][10]  
-[YouTube][11]  
-[SoundCloud][12]
+[email me][10]  
+[Facebook][11]  
+[YouTube][12]  
+[SoundCloud][13]
 
 ## links:
 
-[European Filmphilharmonic Institute][13]
+[European Filmphilharmonic Institute][14]
 
 [0]: mailto:moema.parrott@harrisonparrott.co.uk
 [1]: mailto:alexandra.schulz@harrisonparrott.co.uk
@@ -85,7 +85,8 @@ contact@christian-schumann.com
 [7]: mailto:impresario@biromusic.com?subject=Christian%20Schumann "mailto:impresario@biromusic.com?subject=Christian Schumann"
 [8]: http://biromusic.com/eng/muveszek/christian-schumann-en/ "http://biromusic.com/eng/muveszek/christian-schumann-en/"
 [9]: mailto:elafini@kinetophone.com?subject=Christian%20Schumann "mailto:elafini@kinetophone.com?subject=Christian Schumann"
-[10]: https://www.facebook.com/ChristianSchumannOfficial/?ref=hl "https://www.facebook.com/ChristianSchumannOfficial/?ref=hl"
-[11]: https://www.youtube.com/user/MyCMvideos/videos "https://www.youtube.com/user/MyCMvideos/videos"
-[12]: https://soundcloud.com/christian-schumann-19 "https://soundcloud.com/christian-schumann-19"
-[13]: http://www.filmphilharmonie.de/index.php?id=127&L=1 "http://www.filmphilharmonie.de/index.php?id=127&L=1"
+[10]: contact@christian-schumann.com
+[11]: https://www.facebook.com/ChristianSchumannOfficial/?ref=hl "https://www.facebook.com/ChristianSchumannOfficial/?ref=hl"
+[12]: https://www.youtube.com/user/MyCMvideos/videos "https://www.youtube.com/user/MyCMvideos/videos"
+[13]: https://soundcloud.com/christian-schumann-19 "https://soundcloud.com/christian-schumann-19"
+[14]: http://www.filmphilharmonie.de/index.php?id=127&L=1 "http://www.filmphilharmonie.de/index.php?id=127&L=1"
