@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T10:03:42.148Z'
-dateModified: '2016-05-30T10:03:37.518Z'
+datePublished: '2016-05-30T10:05:32.931Z'
+dateModified: '2016-05-30T10:05:25.529Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-05-19-contacts-links.md
@@ -29,8 +29,8 @@ Alexandra Schulz
 + 34 608 990 142  
 [alexandra.schulz@harrisonparrott.co.uk][1]
 
-[http://www.polyarts.co.uk][2]  
-[http://www.harrisonparrott.com][3]
+[www.polyarts.co.uk][2]  
+[www.harrisonparrott.com][3]
 
 ## for opera:
 
