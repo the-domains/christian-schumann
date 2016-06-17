@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: contact@christian-schumann.comFacebookSoundCloudYouTube
-datePublished: '2016-06-17T17:24:48.352Z'
-dateModified: '2016-06-17T17:24:29.781Z'
+description: contact@christian-schumann.com Facebook SoundCloud YouTube
+datePublished: '2016-06-17T17:27:29.857Z'
+dateModified: '2016-06-17T17:26:58.659Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-06-17-contact-links.md
@@ -20,10 +20,10 @@ _type: WebPage
 # Contacts / Links
 
 [contact@christian-schumann.com][0]  
-[Facebook][0]  
-[SoundCloud][1]  
-[YouTube][2]
+[Facebook][1]  
+[SoundCloud][2]  
+YouTube
 
 [0]: null
-[1]: https://soundcloud.com/christian-schumann-19
-[2]: https://www.youtube.com/channel/UCj56p3tocTxOew_Gu_saDIQ
+[1]: https://www.facebook.com/ChristianSchumannOfficial/
+[2]: https://soundcloud.com/christian-schumann-19
