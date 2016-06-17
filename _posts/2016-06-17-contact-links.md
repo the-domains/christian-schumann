@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: contact@christian-schumann.com Facebook SoundCloud YouTube
-datePublished: '2016-06-17T17:23:29.737Z'
-dateModified: '2016-06-17T17:23:24.077Z'
+description: contact@christian-schumann.comFacebookSoundCloudYouTube
+datePublished: '2016-06-17T17:24:48.352Z'
+dateModified: '2016-06-17T17:24:29.781Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-06-17-contact-links.md
