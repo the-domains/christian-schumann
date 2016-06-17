@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: contact@christian-schumann.com
-datePublished: '2016-06-17T17:56:56.055Z'
-dateModified: '2016-06-17T17:56:44.437Z'
+datePublished: '2016-06-17T18:20:31.487Z'
+dateModified: '2016-06-17T18:20:21.762Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-06-17-contacts-links.md
@@ -18,5 +18,7 @@ _type: WebPage
 
 ---
 # Contacts / Links
+
+## me:
 
 contact@christian-schumann.com
