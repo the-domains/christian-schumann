@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: contact@christian-schumann.com Facebook SoundCloud YouTube
-datePublished: '2016-06-17T17:34:28.255Z'
-dateModified: '2016-06-17T17:31:51.193Z'
+datePublished: '2016-06-17T17:38:18.397Z'
+dateModified: '2016-06-17T17:38:12.687Z'
 title: Contacts / Links
 author: []
 sourcePath: _posts/2016-06-17-contact-links.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: contact-links/index.html
 _type: WebPage
 
