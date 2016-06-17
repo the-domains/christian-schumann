@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: contact@christian-schumann.com Facebook SoundCloud YouTube
-datePublished: '2016-06-17T17:21:23.092Z'
-dateModified: '2016-06-17T17:21:06.786Z'
-title: Contact / Links
+datePublished: '2016-06-17T17:23:29.737Z'
+dateModified: '2016-06-17T17:23:24.077Z'
+title: Contacts / Links
 author: []
 sourcePath: _posts/2016-06-17-contact-links.md
 authors: []
@@ -17,7 +17,7 @@ url: contact-links/index.html
 _type: WebPage
 
 ---
-# Contact / Links
+# Contacts / Links
 
 [contact@christian-schumann.com][0]  
 [Facebook][0]  
