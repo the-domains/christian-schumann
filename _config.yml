@@ -1,8 +1,34 @@
-name: Christian Schumann
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.59752
-title: Christian Schumann - conductor - composer - instrumentalist
+color:
+  brandColors:
+    - '#000000'
+    - '#e8e7ec'
+    - '#1e262a'
+    - '#b29f93'
+    - '#6b574c'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: 'https://www.facebook.com/ChristianSchumannOfficial/'
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-73138904-1
+  facebook: null
+  twitter: null
+author:
+  name: Christian Schumann
+  email: contact@christian-schumann.com
+  url: 'http://christian-schumann.com/'
+name: Christian Schumann
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       paginate: true
@@ -15,27 +41,5 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73138904-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#e8e7ec'
-    - '#1e262a'
-    - '#b29f93'
-    - '#6b574c'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.5
+title: Christian Schumann - conductor - composer - instrumentalist
 purpose: []
