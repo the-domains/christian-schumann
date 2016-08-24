@@ -1,14 +1,7 @@
 ---
-author:
-  - name: biurofestiwalowe
-    url: 'https://www.youtube.com/user/biurofestiwalowe'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-24T14:00:25.950Z'
+sourcePath: _posts/2016-08-24-kon-tiki-dalekomorska-wyprawa-reportaz-z-7-fmf.md
+isBasedOnUrl: 'https://youtu.be/E0QrVONMf7w?t=3m10s'
 keywords:
   - duration
   - kon-tiki
@@ -20,14 +13,14 @@ keywords:
   - festiwal
   - '2014'
   - wyprawa
-description: >-
-  Pierwszego dnia festiwalu odbyła się premiera zamówionego przez FMF projektu
-  Kon-Tiki: Dalekomorska Wyprawa - pełnej projekcji pierwszego w historii
-  Norwegii filmu nominowanego do Oscara i Złotego Globu Wyprawa Kon-Tiki (2012,
-  reż. Joachim Roenning, Espen Sandberg). Ta największa produkcja filmowa w
-  historii skandynawskiej kinematografii została zaprezentowana publiczności w
-  wersji koncertowej z muzyką na żywo.
-inLanguage: en
+related: []
+author:
+  - name: biurofestiwalowe
+    url: 'https://www.youtube.com/user/biurofestiwalowe'
+    avatar: {}
+via: {}
+dateModified: '2016-08-24T14:00:25.331Z'
+title: Kon-Tiki. Dalekomorska wyprawa - reportaż z 7. FMF
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=E0QrVONMf7w&feature=applinks'
     namespace: ai
@@ -65,18 +58,19 @@ app_links:
     type: ios
     namespace: google
     package: '544007664'
-isBasedOnUrl: 'https://youtu.be/E0QrVONMf7w?t=3m10s'
-title: Kon-Tiki. Dalekomorska wyprawa - reportaż z 7. FMF
-datePublished: '2016-08-24T13:59:17.579Z'
-dateModified: '2016-08-24T13:59:03.289Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: ''
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-24-kon-tiki-dalekomorska-wyprawa-reportaz-z-7-fmf.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FE0QrVONMf7w%3Fstart%3D190%26feature%3Doembed%26start%3D190&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE0QrVONMf7w&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FE0QrVONMf7w%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
