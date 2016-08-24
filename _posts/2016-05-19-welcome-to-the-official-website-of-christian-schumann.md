@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-24T13:31:16.772Z'
-dateModified: '2016-08-24T13:31:15.567Z'
+datePublished: '2016-08-24T13:31:23.043Z'
+dateModified: '2016-08-24T13:31:22.014Z'
 title: Welcome to the official website
 author:
   - name: ''
@@ -16,7 +16,7 @@ sourcePath: _posts/2016-05-19-welcome-to-the-official-website-of-christian-schum
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 _type: Blurb
 
 ---
