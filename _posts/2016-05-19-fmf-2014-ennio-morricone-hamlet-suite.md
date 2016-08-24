@@ -1,14 +1,7 @@
 ---
-author:
-  - name: biurofestiwalowe
-    url: 'https://www.youtube.com/user/biurofestiwalowe'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-24T13:24:36.001Z'
+sourcePath: _posts/2016-05-19-fmf-2014-ennio-morricone-hamlet-suite.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=mtQNrD9CP-8'
 keywords:
   - duration
   - morricone
@@ -20,8 +13,13 @@ keywords:
   - zimmer
   - rieu
   - suite
-description: 'Suita Ennio Morricone z najpiękniejszymi tematami z „Hamleta" (1990) została przygotowana specjalnie na koncert „Szekspir Symfonicznie" podczas 8. Festiwalu Muzyki Filmowej w Krakowie. Aranżacja została zamówiona przez największą wytwórnię muzyki filmowej na świecie, przyjaciela FMF - Varѐse Sarabande.'
-inLanguage: en
+related: []
+author:
+  - name: biurofestiwalowe
+    url: 'https://www.youtube.com/user/biurofestiwalowe'
+    avatar: {}
+dateModified: '2016-08-24T13:24:35.030Z'
+title: 'FMF 2014: Ennio Morricone - Hamlet Suite'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=mtQNrD9CP-8&feature=applinks'
     type: ios
@@ -59,17 +57,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=mtQNrD9CP-8'
-title: 'FMF 2014: Ennio Morricone - Hamlet Suite'
-datePublished: '2016-05-19T13:35:27.007Z'
-dateModified: '2016-05-19T12:46:45.479Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: ''
+inLanguage: en
+via: {}
 starred: false
-sourcePath: _posts/2016-05-19-fmf-2014-ennio-morricone-hamlet-suite.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmtQNrD9CP-8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmtQNrD9CP-8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmtQNrD9CP-8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
