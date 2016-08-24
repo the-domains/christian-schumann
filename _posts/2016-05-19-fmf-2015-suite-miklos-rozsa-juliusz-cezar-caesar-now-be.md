@@ -1,14 +1,7 @@
 ---
-author:
-  - name: biurofestiwalowe
-    url: 'https://www.youtube.com/user/biurofestiwalowe'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-24T13:24:58.909Z'
+sourcePath: _posts/2016-05-19-fmf-2015-suite-miklos-rozsa-juliusz-cezar-caesar-now-be.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=UM-D2cJ24cc'
 keywords:
   - duration
   - fmf
@@ -20,8 +13,13 @@ keywords:
   - mikl
   - zsa
   - gala
-description: www.fmf.fm www.facebook.com/festiwalmuzykifilmowejwkrakowie www.instagram.com/krakowfilmmusicfestival
-inLanguage: en
+related: []
+author:
+  - name: biurofestiwalowe
+    url: 'https://www.youtube.com/user/biurofestiwalowe'
+    avatar: {}
+dateModified: '2016-08-24T13:24:58.145Z'
+title: 'FMF 2015 suite: Miklós Rózsa - Juliusz Cezar („Caesar Now Be Stil",1953)'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=UM-D2cJ24cc&feature=applinks'
     type: ios
@@ -59,17 +57,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=UM-D2cJ24cc'
-title: 'FMF 2015 suite: Miklós Rózsa - Juliusz Cezar („Caesar Now Be Stil",1953)'
-datePublished: '2016-05-19T13:35:26.958Z'
-dateModified: '2016-05-19T12:47:06.626Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: ''
+inLanguage: en
+via: {}
 starred: false
-sourcePath: _posts/2016-05-19-fmf-2015-suite-miklos-rozsa-juliusz-cezar-caesar-now-be.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUM-D2cJ24cc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUM-D2cJ24cc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUM-D2cJ24cc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
