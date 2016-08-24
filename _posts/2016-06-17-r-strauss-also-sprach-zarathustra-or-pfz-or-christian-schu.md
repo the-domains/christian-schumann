@@ -9,18 +9,19 @@ description: >-
   Excerpt of R. Strauss "Also sprach Zarathustra", recorded at the Palace of
   Arts, Budapest with the Pannon Philharmonic Orchestra on 18.04.2015 conducted
   by Christian Schumann.
-datePublished: '2016-06-17T12:15:10.234Z'
-dateModified: '2016-06-17T12:15:03.730Z'
+datePublished: '2016-08-24T13:28:33.657Z'
+dateModified: '2016-08-24T13:28:32.648Z'
 title: 'R. Strauss: "Also sprach Zarathustra" | PFZ | Christian Schumann'
 author:
   - name: Christian Schumann
     url: 'https://www.youtube.com/user/MyCMvideos'
     avatar: {}
 authors: []
-publisher: null
+publisher: {}
 sourcePath: >-
   _posts/2016-06-17-r-strauss-also-sprach-zarathustra-or-pfz-or-christian-schu.md
-starred: false
+via: {}
+starred: true
 _type: MediaObject
 
 ---
