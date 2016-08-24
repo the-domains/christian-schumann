@@ -4,7 +4,7 @@
         <description><![CDATA[Christian Schumann]]></description>
         <link>http://christian-schumann.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:22:39 GMT</lastBuildDate>
         <atom:link href="http://christian-schumann.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[R. Strauss: "Also sprach Zarathustra" | PFZ | Christian Schumann]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtube.com/watch?v=9HVWOzSDTpI</link>
             <guid isPermaLink="false">f9afc148-b074-4703-a177-48c8ce371784</guid>
             <pubDate>Wed, 24 Aug 2016 13:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zampanò's House by Christian Schumann]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F273702526%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fchristian-schumann-19%2Fzampanos-house&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000171480255-cwfhru-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://soundcloud.com/christian-schumann-19/zampanos-house</link>
+            <guid isPermaLink="false">dd76630b-864f-440b-8764-1454e3ee8faa</guid>
+            <pubDate>Wed, 24 Aug 2016 14:22:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kon-Tiki. Dalekomorska wyprawa - reportaż z 7. FMF]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=aJz0XP5RXdc</link>
             <guid isPermaLink="false">26a9e5b5-c648-49f1-9d8a-33c6d2ad0d14</guid>
             <pubDate>Thu, 19 May 2016 15:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dreams colliding by Christian Schumann]]></title>
-            <description><![CDATA[<article><h1>dreams colliding by Christian Schumann</h1><p>"Maybe one day we'll find the place where our dreams and reality collide."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90f48313b19b3014fdca444dd88e8f61e4e6e5ae.jpg"></article>]]></description>
-            <link>https://soundcloud.com/christian-schumann-19/dreams-colliding</link>
-            <guid isPermaLink="false">71c3b755-1fdc-44c4-bb4d-0cc5dfaf9675</guid>
-            <pubDate>Thu, 19 May 2016 13:35:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
