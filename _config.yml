@@ -32,6 +32,9 @@ navigation:
   - name: Contact
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
     type: content
+  - name: News
+    id: 2562ccc2-a3b3-4613-affe-47308df1597d
+    type: content
 favicon: null
 collections:
   - index:
