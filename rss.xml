@@ -4,7 +4,7 @@
         <description><![CDATA[Christian Schumann]]></description>
         <link>http://christian-schumann.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 11:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 11:53:29 GMT</lastBuildDate>
         <atom:link href="http://christian-schumann.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[R. Strauss: "Also sprach Zarathustra" | PFZ | Christian Schumann]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtube.com/watch?v=9HVWOzSDTpI</link>
             <guid isPermaLink="false">f9afc148-b074-4703-a177-48c8ce371784</guid>
             <pubDate>Wed, 24 Aug 2016 13:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The conductor Christian Schumann will take Fimucité to the stars]]></title>
+            <description><![CDATA[<article><h1>The conductor Christian Schumann will take Fimucité to the stars</h1><p>The 10th Tenerife International Film Music Festival has announced the guest conductors attending the event, among which the figure of Christian Schumann stands out. Schumann will be conducting the concert "Space Opera: The Music of the Stars". José H.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65cffbac8e9e48248f70a66180f89041/noop.jpg?input=http%3A%2F%2Ffimucite.com%2Ff10%2Fimages%2Fnoticias%2Fn8.jpg"></article>]]></description>
+            <link>http://fimucite.com/f10/en/news/568-the-conductor-christian-schumann-will-take-fimucite-to-the-stars</link>
+            <guid isPermaLink="false">036466ac-63da-4bb0-9379-621d02ce6503</guid>
+            <pubDate>Thu, 25 Aug 2016 11:53:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[News]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/christian-schumann-19/13xi15</link>
             <guid isPermaLink="false">4ee052ff-2721-4b73-9625-189a58658525</guid>
             <pubDate>Thu, 19 May 2016 15:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIMBER FALLS (musical study) - parental guidance strongly advised!]]></title>
-            <description><![CDATA[<article><h1>TIMBER FALLS (musical study) - parental guidance strongly advised!</h1><p>short szene of the movie written and directed by Tony Giglio with my own musical concept as a study. I do not own the rights for this movie!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa350d87ff97a810ed2333cdbdcd3cc5aa2fec5c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kLHu_5t4Pd0</link>
-            <guid isPermaLink="false">9c74de74-2938-4ea7-9260-7817e850fd00</guid>
-            <pubDate>Thu, 19 May 2016 15:37:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
