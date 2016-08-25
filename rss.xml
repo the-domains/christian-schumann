@@ -4,7 +4,7 @@
         <description><![CDATA[Christian Schumann]]></description>
         <link>http://christian-schumann.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 10:35:56 GMT</lastBuildDate>
         <atom:link href="http://christian-schumann.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[R. Strauss: "Also sprach Zarathustra" | PFZ | Christian Schumann]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtube.com/watch?v=9HVWOzSDTpI</link>
             <guid isPermaLink="false">f9afc148-b074-4703-a177-48c8ce371784</guid>
             <pubDate>Wed, 24 Aug 2016 13:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News]]></title>
+            <description><![CDATA[<article><h1>News</h1><p>Fimucité Festival Internacional de Música de Cine de Tenerife</p></article>]]></description>
+            <link>http://christian-schumann.com/news/index.html</link>
+            <guid isPermaLink="false">2562ccc2-a3b3-4613-affe-47308df1597d</guid>
+            <pubDate>Thu, 25 Aug 2016 10:35:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zampanò's House by Christian Schumann]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=kLHu_5t4Pd0</link>
             <guid isPermaLink="false">9c74de74-2938-4ea7-9260-7817e850fd00</guid>
             <pubDate>Thu, 19 May 2016 15:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EVERMORE (musical study)]]></title>
-            <description><![CDATA[<article><h1>EVERMORE (musical study)</h1><p>short movie written and directed by Philip Hofmänner, music composed by Christian Schumann; Starring Lisa Brühlmann & Lucas Ullrich TRIXER Studios in coproduction with SF (Schweizer Fernsehen) I do not own the rights to this film!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46f2f6e73bc430b251f44361dd0da5636313adde.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=aJz0XP5RXdc</link>
-            <guid isPermaLink="false">26a9e5b5-c648-49f1-9d8a-33c6d2ad0d14</guid>
-            <pubDate>Thu, 19 May 2016 15:36:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
