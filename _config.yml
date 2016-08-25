@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Contact
+    id: 510fda7e-7dd9-4814-a18c-2a5783822a10
+    type: content
 favicon: null
 collections:
   - index:
