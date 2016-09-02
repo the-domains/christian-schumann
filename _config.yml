@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.5
 opengraph:
   image: null
-  type: 'https://www.facebook.com/ChristianSchumannOfficial/'
+  type: ''
   appId: null
 layout_spectrum: 1
 analytics:
