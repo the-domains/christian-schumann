@@ -35,9 +35,6 @@ navigation:
   - name: Contact
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
     type: content
-  - name: Contact
-    id: b2760999-522d-4f8d-8285-7a7edf64ab24
-    type: content
 favicon: null
 collections:
   - index:
