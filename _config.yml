@@ -29,11 +29,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: dates
-    id: 5d9b414d-d37f-40ce-92cb-d3bd48268936
-    type: content
   - name: useful links
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
+    type: content
+  - name: dates
+    id: 5d9b414d-d37f-40ce-92cb-d3bd48268936
     type: content
   - name: contact
     url: 'http://www.harrisonparrott.com/toursprojects/christian-schumann'
