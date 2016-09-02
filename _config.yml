@@ -29,7 +29,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Dates
+  - name: dates
     id: 5d9b414d-d37f-40ce-92cb-d3bd48268936
     type: content
   - name: useful links
