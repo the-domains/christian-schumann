@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T15:26:11.669Z'
+datePublished: '2016-08-30T15:26:48.305Z'
 hasPage: true
 keywords:
   - schumann
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T15:25:55.582Z'
+dateModified: '2016-08-30T15:26:47.411Z'
 title: Christian Schumann
 app_links: []
 publisher:
@@ -31,8 +31,8 @@ description: >-
   Teufels at Bayerische Staatsoper Munich, as well as Lady Sarashina at Teatr
   Wielki Warsaw.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-30-christian-schumann.md
+starred: false
 url: christian-schumann/index.html
 _context: 'http://schema.org'
 _type: MediaObject
