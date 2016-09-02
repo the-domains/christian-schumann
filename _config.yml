@@ -35,6 +35,9 @@ navigation:
   - name: useful links
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
     type: content
+  - name: contact
+    url: 'http://www.harrisonparrott.com/toursprojects/christian-schumann'
+    type: external
 favicon: null
 collections:
   - index:
