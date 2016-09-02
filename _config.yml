@@ -51,6 +51,6 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-title: Conductor - Composer
+title: Conductor  Composer
 description: ''
 purpose: []
