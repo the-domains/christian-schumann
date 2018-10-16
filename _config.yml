@@ -1,56 +1,88 @@
-typography_spectrum: 0.59752
+layout_spectrum: 0.30609308758307946
+typography_spectrum: 0.20643578760030837
 color:
+  saturation: 0.6665412622516846
+  brandStrength: 0.8009994789114278
+  lightness: 0.10734843998584934
   brandColors:
-    - '#000000'
-    - '#e8e7ec'
-    - '#1e262a'
-    - '#b29f93'
-    - '#6b574c'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.5
+    - '#F5F3F0'
+    - '#252D31'
+    - '#816545'
+    - '#A88771'
+    - '#005472'
+  rhythmicContrast: 0.8707552408272087
 opengraph:
   image: null
   type: ''
   appId: ''
-layout_spectrum: 1
 analytics:
-  google: UA-73138904-1
-  facebook: null
   twitter: null
+  google: UA-73138904-1
+  facebook: '1077434365675426'
 author:
   name: Christian Schumann
   email: contact@christian-schumann.com
   url: 'http://christian-schumann.com/'
-name: Christian Schumann
+logo: null
+name: music happens under your skin
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
-  - name: dates
-    id: 5d9b414d-d37f-40ce-92cb-d3bd48268936
+  - name: ABOUT
+    id: 6e4d567e-092e-4c2d-b13e-1081e95b2501
     type: content
-  - name: links
+  - name: MEDIA
+    id: 8afefd73-b7f1-4fee-8409-166352732f52
+    type: content
+  - name: LINKS
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
     type: content
-  - name: contact
-    url: 'http://www.harrisonparrott.com/toursprojects/christian-schumann'
-    type: external
+  - name: CONTACT
+    id: ccad6ff5-ebf6-4a66-8d59-f7192a64ecba
+    type: content
 favicon: null
 collections:
   - index:
-      paginate: true
       path: /
       number: 15
+      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      format: rss
       path: /rss.xml
+      format: rss
       number: 10
-title: conductor & composer
-description: music happens under your skin
+title: Christian Schumann
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3570b935-9d51-4f01-896c-20121e1e9238.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3570b935-9d51-4f01-896c-20121e1e9238.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: conductor & composer
 purpose: []
+github: true
+content_rating:
+  adult: false
