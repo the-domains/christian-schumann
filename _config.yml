@@ -24,17 +24,17 @@ author:
   email: contact@christian-schumann.com
   url: 'http://christian-schumann.com/'
 logo: null
-name: music happens under your skin
+name: music happens under your ski
 cta:
   bucket: null
   version: null
   domain: null
 navigation:
-  - name: ABOUT
-    id: 6e4d567e-092e-4c2d-b13e-1081e95b2501
-    type: content
   - name: MEDIA
     id: 8afefd73-b7f1-4fee-8409-166352732f52
+    type: content
+  - name: ABOUT
+    id: 6e4d567e-092e-4c2d-b13e-1081e95b2501
     type: content
   - name: LINKS
     id: 510fda7e-7dd9-4814-a18c-2a5783822a10
